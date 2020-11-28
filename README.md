@@ -1,10 +1,10 @@
 # PLEASE READ ME BEFORE YOU USE THIS REPOSITORY
 
----
+
 
 ## This repository has been named **PV_EDU_UG1_LC_OOP**.
 
----
+
 
 ## This repository has been classified as follows.
 
@@ -16,7 +16,7 @@ Acts on: **UG1 (Undergraduate Year 1)**
 
 Specific Subject: **LC OOP (Object-Oriented Programming)**
 
----
+
 
 ## Software(s) written for the files in this repository:
 
@@ -26,7 +26,7 @@ Specific Subject: **LC OOP (Object-Oriented Programming)**
 
 * **[Eclipse](https://www.eclipse.org/)**
 
----
+
 
 ## Copyright:
 
@@ -46,6 +46,6 @@ Specific Subject: **LC OOP (Object-Oriented Programming)**
    See the License for the specific language governing permissions and
    limitations under the License.
 
----
+
 
 © 2020 Harry Yep
