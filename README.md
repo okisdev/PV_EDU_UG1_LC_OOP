@@ -32,7 +32,7 @@ Specific Subject: **LC OOP (Object-Oriented Programming)**
 
 **THE FILES IN THIS REPOSITORY ARE PART OF UNIVERSITY EDUCATION PROJECTS BY [HARRY YEP](https://github.com/Harry-Yep)**
 
- Copyright [2020] [Harry Yep]
+ Copyright [2021] [Harry Yep]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -48,4 +48,4 @@ Specific Subject: **LC OOP (Object-Oriented Programming)**
 
 
 
-© 2020 Harry Yep
+Copyright © 2020-2021 Harry Yep. All rights reserved.
